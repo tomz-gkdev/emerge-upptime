@@ -6,9 +6,6 @@ sites:
   - name: Emerge Web
     url: https://emerge.gunkul.com
     maxResponseTime: 3000
-  - name: Emerge GraphQL
-    url: https://api.emerge.gunkul.com/graphql
-    maxResponseTime: 3000
 assignees:
   - tomz-gkdev
 
