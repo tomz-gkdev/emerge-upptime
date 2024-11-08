@@ -4,19 +4,19 @@
     "url": "https://emerge.gunkul.com",
     "icon": "https://icons.duckduckgo.com/ip3/emerge.gunkul.com.ico",
     "slug": "emerge-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 720,
-    "timeDay": 687,
-    "timeWeek": 683,
+    "timeDay": 696,
+    "timeWeek": 687,
     "timeMonth": 716,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-11-08": 0
+      "2024-11-08": 6
     }
   }
 ]
