@@ -6,14 +6,14 @@
     "slug": "emerge-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 720,
-    "timeDay": 748,
-    "timeWeek": 704,
-    "timeMonth": 715,
+    "timeDay": 682,
+    "timeWeek": 711,
+    "timeMonth": 714,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2024-11-08": 6
