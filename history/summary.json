@@ -4,7 +4,7 @@
     "url": "https://emerge.gunkul.com",
     "icon": "https://icons.duckduckgo.com/ip3/emerge.gunkul.com.ico",
     "slug": "emerge-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 722,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2025-12-18": 0,
       "2025-12-12": 11,
       "2025-08-18": 5,
       "2025-06-04": 6
